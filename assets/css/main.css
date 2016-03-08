@@ -140,7 +140,7 @@
 	}
 
 	body {
-		background: #242629;
+		background: white;
 	}
 
 		body.loading *, body.loading *:before, body.loading *:after {
@@ -1388,7 +1388,7 @@
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #1f2224;
+		background: white;
 		bottom: -1em;
 		height: 5em;
 		left: 0;
