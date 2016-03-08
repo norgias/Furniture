@@ -9,9 +9,9 @@
 
 /* Reset */
 
-	@media only screen and (max-width: 500px) {
-    body {
-        background-color: lightblue;
+	@media only screen and (max-width: 396px) {
+    .button {
+        margin-left:; -100px;
     }
  }
 	
